@@ -13,3 +13,7 @@ if not client.collection_exists("BRSR_REPORT_STORE"):
 pipline = DataChunckDecider()
 
 pipline.start_pipeline()
+
+#now we have extracted details from the pdf and now we will be using ai Agents for completing
+#
+#

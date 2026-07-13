@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+
+  "graphs": {
+    "mood_graph": "./learning.py:graph"
+  },
+  "env": ".env"
+}
