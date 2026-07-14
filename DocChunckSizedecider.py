@@ -29,12 +29,8 @@ class DataChunckDecider:
 
         for b, a in enumerate(self.data):
             vec_t = self.dataEmbedding(a["content"])
-            payload = {**a}
-            payload["content"] = payload["content"][:65]
 
-            final_cleaned.append(
-                {"vector": vec_t, "payload": {**a, "content": a["content"][:65]}}
-            )
+            final_cleaned.append({"vector": vec_t, "payload": {**a}})
         print("DATA to upsert VDB, is ready, Quadrant let us gooo")
         self.upsertingPipeline(final_cleaned)
         print("Boom almost done")

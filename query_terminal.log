@@ -1,0 +1,27 @@
+Connected to collection 'BRSR_REPORT_STORE'. Type a query, or 'exit' to quit.
+query> human rights
+
+[1] score=0.6580 chunk_index=27 page=23
+    Heading: SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+    Subheading: Leadership Indicators
+    content: 1.   Details of a business process being modified / introduced as
+
+[2] score=0.6058 chunk_index=26 page=21
+    Heading: SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+    Subheading: Essential Indicators
+    content: 1.   Employees and workers who have been provided training on hum
+
+[3] score=0.6057 chunk_index=31 page=28
+    Heading: SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+    Subheading: PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that
+    content: is responsible and transparent
+
+[4] score=0.5913 chunk_index=12 page=9
+    Heading: SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+    Subheading: PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical,
+    content: Transparent and Accountable.
+
+[5] score=0.5852 chunk_index=36 page=30
+    Heading: SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+    Subheading: Leadership Indicators
+    content: 1.   Provide details of actions taken to mitigate any negative so
