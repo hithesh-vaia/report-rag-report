@@ -2,7 +2,7 @@
   "dependencies": ["."],
 
   "graphs": {
-    "mood_graph": "./learning.py:graph"
+    "mood_graph": "./fill_agent.py:graph"
   },
   "env": ".env"
 }
