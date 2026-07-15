@@ -1,0 +1,2180 @@
+[
+  {
+    "question_id": "brsr-a-001",
+    "section": "A",
+    "question": "Corporate Identity Number (CIN) of the Listed Entity",
+    "answer_type": "small_text",
+    "status": "answered",
+    "answer": "L67200MH1937PLC002622",
+    "missing": "",
+    "source_pages": [
+      1,
+      4,
+      23,
+      24,
+      28,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-002",
+    "section": "A",
+    "question": "Name of the Listed Entity",
+    "answer_type": "small_text",
+    "status": "answered",
+    "answer": "Tata Investment Corporation Limited",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      4,
+      18,
+      23,
+      24,
+      28,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-003",
+    "section": "A",
+    "question": "Year of incorporation",
+    "answer_type": "number",
+    "status": "not_found",
+    "answer": "",
+    "missing": "The year of incorporation is not present in the provided BRSR report.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      11,
+      12,
+      19,
+      24
+    ]
+  },
+  {
+    "question_id": "brsr-a-004",
+    "section": "A",
+    "question": "Registered office address",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "Elphinstone Building, 10 Veer Nariman Road, Mumbai - 400 001",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      11,
+      19,
+      21,
+      23,
+      24
+    ]
+  },
+  {
+    "question_id": "brsr-a-005",
+    "section": "A",
+    "question": "Corporate address (if different from registered address)",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The corporate address is Elphinstone Building, 10 Veer Nariman Road, Mumbai - 400 001, which is the same as the registered address.",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      4,
+      23,
+      24,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-006",
+    "section": "A",
+    "question": "E-mail address",
+    "answer_type": "small_text",
+    "status": "answered",
+    "answer": "The E-mail address is ticl@tata.com.",
+    "missing": "",
+    "source_pages": [
+      1,
+      11,
+      19,
+      21,
+      24,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-a-007",
+    "section": "A",
+    "question": "Telephone number",
+    "answer_type": "small_text",
+    "status": "answered",
+    "answer": "022-66658282",
+    "missing": "",
+    "source_pages": [
+      1,
+      11,
+      19,
+      21,
+      24,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-a-008",
+    "section": "A",
+    "question": "Website",
+    "answer_type": "small_text",
+    "status": "not_found",
+    "answer": "",
+    "missing": "The company's website address is not provided in the given evidence.",
+    "source_pages": [
+      1,
+      11,
+      13,
+      19,
+      21,
+      24,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-a-009",
+    "section": "A",
+    "question": "Financial year for which reporting is being done",
+    "answer_type": "small_text",
+    "status": "answered",
+    "answer": "The reporting is being done for the financial year 2022-23.",
+    "missing": "The specific start and end months (e.g., April 2022 to March 2023) are not explicitly stated, but the financial year '2022-23' is consistently mentioned throughout the report.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      9,
+      21,
+      27,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-a-010",
+    "section": "A",
+    "question": "Stock Exchange(s) where shares are listed",
+    "answer_type": "multi_select",
+    "status": "answered",
+    "answer": "Both BSE & NSE",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      4,
+      24,
+      28,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-011",
+    "section": "A",
+    "question": "Paid-up Capital (INR)",
+    "answer_type": "number",
+    "status": "answered",
+    "answer": "505953000",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      21,
+      24
+    ]
+  },
+  {
+    "question_id": "brsr-a-012",
+    "section": "A",
+    "question": "Name and contact details of the person responsible for this BRSR report",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The person responsible for the BRSR report is Mr. Manoj Kumar CV, who holds the designation of Chief Financial Officer & Company Secretary. He can be contacted at telephone number 022 6665 8282 and email address kvmanoj@tata.com.",
+    "missing": "",
+    "source_pages": [
+      1,
+      7,
+      9,
+      11,
+      19,
+      23,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-a-013",
+    "section": "A",
+    "question": "Reporting boundary",
+    "answer_type": "radio",
+    "status": "not_found",
+    "answer": "",
+    "missing": "The evidence indicates that the overall report includes both 'Standalone Financial Statements' and 'Consolidated Financial Statements'. However, it does not explicitly state whether the disclosures specifically within the 'BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT' are made on a standalone or consolidated basis.",
+    "source_pages": [
+      1,
+      9,
+      11,
+      18,
+      23,
+      28,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-014",
+    "section": "A",
+    "question": "Details of business activities contributing \u2265 10% of turnover",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[{\"sno\": \"1\", \"main_activity\": \"The Company is a Systemically Important Non-Deposit taking NBFC registered with Reserve Bank of India under \\u2018Investment and Credit Company.\", \"biz_activity\": \"The Company operates primarily as a long-term Investment Company with investments in quoted and unquoted securities. The Company\\u2019s primary sources of income consist of dividends, interest, income from derivatives and gains on sale of long-term investments.\", \"nic_code\": \"6430\", \"turnover_pct\": \"100%\"}]",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      12,
+      13,
+      27,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-a-015",
+    "section": "A",
+    "question": "Products/Services sold by the entity",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[{\"sno\": 1, \"product\": \"Investment Company activities (dividends, interest, income from derivatives, gains on sale of long-term investments)\", \"nic_code\": \"6430\", \"turnover_pct\": \"100\"}]",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      4,
+      12,
+      18,
+      24,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-016",
+    "section": "A",
+    "question": "Number of locations where plants and/or operations/offices are situated",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"plants\": \"\", \"offices\": \"1\", \"nat_total\": \"1\", \"int_plants\": \"\", \"int_offices\": \"\", \"int_total\": \"\"}]",
+    "missing": "",
+    "source_pages": [
+      2,
+      4,
+      11,
+      23,
+      24,
+      27,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-a-017",
+    "section": "A",
+    "question": "Markets served by the entity \u2014 number of states and union territories",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"states_ut\": \"1\", \"districts\": \"\", \"int_countries\": \"0\"}]",
+    "missing": "The number of districts served by the entity is not specified in the provided evidence.",
+    "source_pages": [
+      2,
+      4,
+      13,
+      18,
+      21,
+      23,
+      28
+    ]
+  },
+  {
+    "question_id": "brsr-a-017a",
+    "section": "A",
+    "question": "What is the contribution of exports as a percentage of total turnover?",
+    "answer_type": "number",
+    "status": "answered",
+    "answer": "0",
+    "missing": "The report states 'Not applicable' for the contribution of exports as a percentage of total turnover, which implies a 0% contribution. No specific numerical percentage was provided explicitly stating '0'.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      11,
+      12,
+      13,
+      27
+    ]
+  },
+  {
+    "question_id": "brsr-a-017b",
+    "section": "A",
+    "question": "Briefly describe the types of customers served",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The Company is an investment company and does not have a customer interface, therefore it does not serve traditional customer types (e.g., B2B, B2C, Government, Export).",
+    "missing": "No specific customer types such as B2B, B2C, or Government are mentioned, as the company states it does not have a customer interface. Exports are explicitly stated as 'Not applicable'.",
+    "source_pages": [
+      2,
+      4,
+      7,
+      18,
+      24,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-018",
+    "section": "A",
+    "question": "Details of employees and workers as at the end of the financial year",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"perm_male\": \"17\", \"perm_female\": \"4\", \"perm_total\": \"21\", \"other_male\": \"0\", \"other_female\": \"0\", \"other_total\": \"0\", \"total_male\": \"17\", \"total_female\": \"4\", \"grand_total\": \"21\"}]",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      9,
+      13,
+      18,
+      21,
+      23
+    ]
+  },
+  {
+    "question_id": "brsr-a-019",
+    "section": "A",
+    "question": "Differently abled employees and workers",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"emp_male\": \"0\", \"emp_female\": \"0\", \"emp_total\": \"0\", \"wkr_male\": \"0\", \"wkr_female\": \"0\", \"wkr_total\": \"0\"}]",
+    "missing": "",
+    "source_pages": [
+      2,
+      4,
+      13,
+      18,
+      21,
+      23,
+      27
+    ]
+  },
+  {
+    "question_id": "brsr-a-020",
+    "section": "A",
+    "question": "Participation/Inclusion/Representation of women",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"total\": \"8\", \"women\": \"1\", \"women_pct\": \"12.5\"}, {\"total\": \"2\", \"women\": \"-\", \"women_pct\": \"-\"}]",
+    "missing": "The second row represents Key Management Personnel, which is often considered senior management. However, the evidence explicitly states there are no women in this category, so the 'women' and 'women_pct' fields are marked as '-'. If the question implies a broader definition of senior management beyond KMP, that information is not available.",
+    "source_pages": [
+      1,
+      2,
+      9,
+      13,
+      19,
+      21,
+      23,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-a-021",
+    "section": "A",
+    "question": "Turnover rate for permanent employees and workers (current and previous FY)",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"male_cy\": \"4.76%\", \"female_cy\": \"9.52%\", \"total_cy\": \"14.28%\", \"male_py\": \"\", \"female_py\": \"\", \"total_py\": \"\"}, {\"male_cy\": \"\", \"female_cy\": \"\", \"total_cy\": \"\", \"male_py\": \"\", \"female_py\": \"\", \"total_py\": \"\"}]",
+    "missing": "Turnover rate for permanent employees for FY 2021-22 and for permanent workers for both FY 2022-23 and FY 2021-22 is not provided in the evidence, indicated by '-'.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      13,
+      21,
+      24,
+      27
+    ]
+  },
+  {
+    "question_id": "brsr-a-022",
+    "section": "A",
+    "question": "Names of holding / subsidiary / associate companies including joint ventures",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[{\"sno\": \"1.\", \"name\": \"Simto Investment Company Ltd.\", \"type\": \"Subsidiary\", \"pct\": \"97.70\", \"brsr\": \"No\"}, {\"sno\": \"2.\", \"name\": \"Tata Asset Management Private Ltd.\", \"type\": \"Associate\", \"pct\": \"32.09\", \"brsr\": \"No\"}, {\"sno\": \"3.\", \"name\": \"Tata Trustee Company Private Ltd.\", \"type\": \"Associate\", \"pct\": \"50.00\", \"brsr\": \"No\"}, {\"sno\": \"4.\", \"name\": \"Amalgamated Plantations Private Ltd.\", \"type\": \"Associate\", \"pct\": \"24.61\", \"brsr\": \"No\"}]",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      4,
+      9,
+      11,
+      24,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-023",
+    "section": "A",
+    "question": "Is CSR applicable to your entity under Section 135 of the Companies Act, 2013?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "Yes",
+    "missing": "",
+    "source_pages": [
+      4,
+      11,
+      18,
+      23,
+      30,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-024",
+    "section": "A",
+    "question": "Turnover (in INR)",
+    "answer_type": "number",
+    "status": "partial",
+    "answer": "3169500000",
+    "missing": "The provided turnover figure (3,169,500,000 INR) is explicitly stated as the 'Average of previous 3 financial years', not specifically the turnover for the latest audited financial statements as requested by the guidance.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      9,
+      18,
+      27,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-a-025",
+    "section": "A",
+    "question": "Net worth (in INR)",
+    "answer_type": "number",
+    "status": "partial",
+    "answer": "19402252500000",
+    "missing": "The provided net worth is an average of the previous 3 financial years, not explicitly stated as the net worth as per the latest audited financial statements for the current financial year.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      9,
+      24,
+      27,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-a-026",
+    "section": "A",
+    "question": "Complaints/Grievances on any of the principles (P1\u2013P9) during the year",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"mechanism\": \"Communities - Tata Code of Conduct (TCoC)\", \"fy_number\": \"\", \"fy_pending\": \"\", \"py_number\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"mechanism\": \"Investors (other than shareholders) - Tata Code of Conduct (TCoC)\", \"fy_number\": \"\", \"fy_pending\": \"\", \"py_number\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"mechanism\": \"Shareholders - Tata Code of Conduct (TCoC)\", \"fy_number\": \"3\", \"fy_pending\": \"\", \"py_number\": \"2\", \"py_pending\": \"\", \"remarks\": \"Resolved\"}, {\"mechanism\": \"Employees and workers - Tata Code of Conduct (TCoC)\", \"fy_number\": \"\", \"fy_pending\": \"\", \"py_number\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"mechanism\": \"Customers - Not Applicable\", \"fy_number\": \"\", \"fy_pending\": \"\", \"py_number\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"mechanism\": \"Value Chain Partners - Not Applicable\", \"fy_number\": \"\", \"fy_pending\": \"\", \"py_number\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"mechanism\": \"Other (please specify) - Not Applicable\", \"fy_number\": \"\", \"fy_pending\": \"\", \"py_number\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}]",
+    "missing": "",
+    "source_pages": [
+      2,
+      4,
+      13,
+      19,
+      23,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-a-027",
+    "section": "A",
+    "question": "Overview of the entity's material responsible business conduct issues",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The entity is deeply committed to achieving ESG-related objectives and prioritizes them, aligning detailed action plans and goals with NGRBC principles. Key ongoing initiatives include waste recycling (plastic, metal, paper, and e-waste) with a goal of zero waste to landfills, sourcing FSC certified office stationery, and gradually increasing LED power-saving equipment to support environmental sustainability. The company monitors and tracks statutory compliance by value chain partners through periodic audits and provides transition assistance programs for employees. It operates under policies such as the Tata Code of Conduct, Corporate Social Responsibility Policy, Sustainability Policy, and has a framework for cyber security and data privacy. The entity reports no issues related to anti-competitive conduct, product recalls, or complaints concerning data privacy, cyber-security, advertising, or trade practices, indicating effective management of these potential risks. As an investment company, many direct environmental and social impacts are noted as 'not applicable'.",
+    "missing": "The evidence does not explicitly list 'key ESG risks' or 'key ESG opportunities' as distinct categories but rather describes the company's commitments, policies, and initiatives that address or leverage them.",
+    "source_pages": [
+      1,
+      7,
+      9,
+      11,
+      18,
+      28,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-a-028",
+    "section": "A",
+    "question": "Overview of ESG ratings obtained by the entity during the current financial year",
+    "answer_type": "table_dynamic",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The provided evidence does not contain any information regarding ESG ratings obtained by the entity, including the rating agency, type of rating, or the rating obtained for the current financial year.",
+    "source_pages": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-b-001",
+    "section": "B",
+    "question": "Policy and management processes \u2014 Does the entity have a policy/policies for each principle?",
+    "answer_type": "matrix",
+    "status": "answered",
+    "answer": "[{\"has_policy\": \"Yes\", \"board_approved\": \"Yes\", \"web_link\": \"https://tatainvestment.com/investor-information/\", \"translated\": \"Yes\", \"value_chain\": \"The policies have been communicated to all the internal stakeholders. Tata Code of Conduct has been communicated to other external stakeholders based on their relevance.\", \"national_intl\": \"No\"}, {\"has_policy\": \"Yes\", \"board_approved\": \"Yes\", \"web_link\": \"https://tatainvestment.com/investor-information/\", \"translated\": \"Yes\", \"value_chain\": \"The policies have been communicated to all the internal stakeholders. Tata Code of Conduct has been communicated to other external stakeholders based on their relevance.\", \"national_intl\": \"No\"}, {\"has_policy\": \"Yes\", \"board_approved\": \"Yes\", \"web_link\": \"https://tatainvestment.com/investor-information/\", \"translated\": \"Yes\", \"value_chain\": \"The policies have been communicated to all the internal stakeholders. Tata Code of Conduct has been communicated to other external stakeholders based on their relevance.\", \"national_intl\": \"No\"}, {\"has_policy\": \"Yes\", \"board_approved\": \"Yes\", \"web_link\": \"https://tatainvestment.com/investor-information/\", \"translated\": \"Yes\", \"value_chain\": \"The policies have been communicated to all the internal stakeholders. Tata Code of Conduct has been communicated to other external stakeholders based on their relevance.\", \"national_intl\": \"No\"}, {\"has_policy\": \"Yes\", \"board_approved\": \"Yes\", \"web_link\": \"https://tatainvestment.com/investor-information/\", \"translated\": \"Yes\", \"value_chain\": \"The policies have been communicated to all the internal stakeholders. Tata Code of Conduct has been communicated to other external stakeholders based on their relevance.\", \"national_intl\": \"No\"}, {\"has_policy\": \"Yes\", \"board_approved\": \"Yes\", \"web_link\": \"https://tatainvestment.com/investor-information/\", \"translated\": \"Yes\", \"value_chain\": \"The policies have been communicated to all the internal stakeholders. Tata Code of Conduct has been communicated to other external stakeholders based on their relevance.\", \"national_intl\": \"No\"}, {\"has_policy\": \"Yes\", \"board_approved\": \"Yes\", \"web_link\": \"https://tatainvestment.com/investor-information/\", \"translated\": \"Yes\", \"value_chain\": \"The policies have been communicated to all the internal stakeholders. Tata Code of Conduct has been communicated to other external stakeholders based on their relevance.\", \"national_intl\": \"No\"}, {\"has_policy\": \"Yes\", \"board_approved\": \"Yes\", \"web_link\": \"https://tatainvestment.com/investor-information/\", \"translated\": \"Yes\", \"value_chain\": \"The policies have been communicated to all the internal stakeholders. Tata Code of Conduct has been communicated to other external stakeholders based on their relevance.\", \"national_intl\": \"No\"}, {\"has_policy\": \"Yes\", \"board_approved\": \"Yes\", \"web_link\": \"https://tatainvestment.com/investor-information/\", \"translated\": \"Yes\", \"value_chain\": \"The policies have been communicated to all the internal stakeholders. Tata Code of Conduct has been communicated to other external stakeholders based on their relevance.\", \"national_intl\": \"No\"}]",
+    "missing": "",
+    "source_pages": [
+      4,
+      7,
+      9,
+      11,
+      19,
+      23,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-b-002",
+    "section": "B",
+    "question": "If the entity has not indicated a policy for any principle, reason for not having a policy",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"reason\": \"All Principles are covered by the Policies.\", \"remarks\": \"The entity has confirmed that policies cover all principles (P1-P9) of the NGRBCs, therefore, no reasons for not having a policy are applicable.\"}]",
+    "missing": "",
+    "source_pages": [
+      7,
+      9,
+      11,
+      13,
+      18,
+      23,
+      24,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-b-003",
+    "section": "B",
+    "question": "Statement by Director responsible for the Business Responsibility report",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The Company is deeply committed to achieving ESG-related objectives and continues to prioritize related agenda over the near and medium term. The Company\u2019s focus on ESG parameters is best reflected through values that are imbibed in all spheres of activity of the Company. The Company has adopted the Tata Code of Conduct which guides interactions with all key stakeholders including employees, vendors, communities, investors, environment & society at large. Corporate Social Responsibility is an integral part of its culture. One of the key features of its CSR projects is focus on participatory and collaborative approach with the community.",
+    "missing": "",
+    "source_pages": [
+      1,
+      7,
+      9,
+      11,
+      19,
+      20,
+      23,
+      28
+    ]
+  },
+  {
+    "question_id": "brsr-b-004",
+    "section": "B",
+    "question": "Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"name\": \"\", \"designation\": \"Executive Director\", \"din\": \"\"}]",
+    "missing": "Name and DIN/UID of the Executive Director are not provided in the evidence.",
+    "source_pages": [
+      1,
+      4,
+      7,
+      9,
+      11,
+      23,
+      28
+    ]
+  },
+  {
+    "question_id": "brsr-b-005",
+    "section": "B",
+    "question": "Does the entity have a specified Committee of the Board/Director responsible for the decision-making on sustainability related issues?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "No",
+    "missing": "The provided evidence indicates that the Board is kept abreast of economic, environmental, and social topics, and feedback is sought from Directors. It also states that stakeholder consultation is used to identify and manage environmental and social topics. However, the evidence does not explicitly mention a 'specified Committee of the Board/Director responsible for the decision-making on sustainability related issues'.",
+    "source_pages": [
+      1,
+      11,
+      19,
+      20,
+      23,
+      28,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-b-005a",
+    "section": "B",
+    "question": "If yes, provide details of the committee / person",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The Corporate Social Responsibility Committee is responsible for decision-making on sustainability-related issues. Details are available on: https://tatainvestment.com/committees-of-the-board/",
+    "missing": "",
+    "source_pages": [
+      7,
+      9,
+      11,
+      19,
+      23,
+      28,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-b-006",
+    "section": "B",
+    "question": "Details of Review of NGRBCs by the entity",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"subject\": \"Performance against Above policies and follow up action\", \"indicate\": \"Senior Leadership Team\", \"frequency\": \"Periodically or on a need basis\"}, {\"subject\": \"Compliance with statutory requirements of relevance to the principles, and, rectification of any non-compliances\", \"indicate\": \"\", \"frequency\": \"\"}]",
+    "missing": "The evidence does not specify who undertakes the review or the frequency of review for \"Compliance with statutory requirements of relevance to the principles, and, rectification of any non-compliances\".",
+    "source_pages": [
+      7,
+      9,
+      19,
+      23,
+      28,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-b-007",
+    "section": "B",
+    "question": "Has the entity carried out independent assessment/evaluation of the working of its policies by an external agency?",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"assessed\": \"Yes\", \"agency\": \"Tata Sustainability Group\"}]",
+    "missing": "",
+    "source_pages": [
+      2,
+      7,
+      11,
+      18,
+      19,
+      23,
+      24,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-b-008",
+    "section": "B",
+    "question": "If answer to question above is 'No', then provide reasons and plans to adopt",
+    "answer_type": "text",
+    "status": "partial",
+    "answer": "The Company does not have a preferential procurement policy because procurement is done based on competitiveness. However, the Company encourages marginalized and vulnerable groups.",
+    "missing": "Explicit plans to adopt a preferential procurement policy or to get policies independently assessed are not provided.",
+    "source_pages": [
+      7,
+      9,
+      12,
+      18,
+      23,
+      24,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-e-001",
+    "section": "C",
+    "question": "Percentage coverage by training and awareness programmes on any of the principles during the financial year",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"segment\": \"Board of Directors\", \"total\": \"During the year, the Board of Directors of the Company invested their time on various updates pertaining to the business, regulations, ESG, etc.\", \"covered\": \"100%\", \"topics\": \"\"}, {\"segment\": \"Key Managerial Personnel\", \"total\": \"5\", \"covered\": \"\", \"topics\": \"- Tata Code of Conduct\\n- Anti-money laundering\\n- Anti-bribery and anti-corruption\\n- Whistle blower\\n- Prevention of Sexual Harassment at the Workplace\"}, {\"segment\": \"Employees other than BoD and KMPs\", \"total\": \"\", \"covered\": \"\", \"topics\": \"\"}, {\"segment\": \"Workers\", \"total\": \"Not applicable\", \"covered\": \"Not applicable\", \"topics\": \"Not applicable\"}]",
+    "missing": "The percentage coverage for Key Managerial Personnel is not provided. The total number of training and awareness programmes held, topics covered, and percentage coverage for Employees other than BoD and KMPs are not provided.",
+    "source_pages": [
+      1,
+      2,
+      9,
+      11,
+      13,
+      18,
+      21
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-e-002",
+    "section": "C",
+    "question": "Details of fines / penalties / punishment / award / compounding fees / settlement amount paid in proceedings (by the entity or by directors / KMPs) with regulators / law enforcement agencies / judicial institutions, in the current financial year",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[]",
+    "missing": "The company reported that no fines or penalties were imposed in the reporting period, so there are no specific details to provide for principle, authority, amount, case brief, or action.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      7,
+      9,
+      11,
+      21,
+      23
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-e-002a",
+    "section": "C",
+    "question": "Of the above penalties, details of cases where appeal has been preferred",
+    "answer_type": "table_dynamic",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The provided evidence does not contain information about any penalties for which an appeal has been preferred. It explicitly states 'None' for adverse orders in intellectual property related disputes and anti-competitive conduct.",
+    "source_pages": [
+      4,
+      7,
+      21,
+      23,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-e-003",
+    "section": "C",
+    "question": "Does the entity have an anti-corruption or anti-bribery policy?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "Yes",
+    "missing": "",
+    "source_pages": [
+      4,
+      7,
+      11,
+      18,
+      23,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-e-003a",
+    "section": "C",
+    "question": "If yes, provide a web link to the policy",
+    "answer_type": "small_text",
+    "status": "answered",
+    "answer": "All mandatory policies are available on the website of the Company: https://tatainvestment.com/investor-information/",
+    "missing": "N/A",
+    "source_pages": [
+      7,
+      9,
+      18,
+      23,
+      24,
+      28,
+      30,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-e-004",
+    "section": "C",
+    "question": "Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the charges of bribery/corruption (current and previous FY)",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"fy_count\": \"0\", \"py_count\": \"\"}]",
+    "missing": "Information regarding the number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for charges of bribery/corruption for the previous financial year (2021-22) is not provided.",
+    "source_pages": [
+      2,
+      4,
+      11,
+      13,
+      18,
+      21,
+      23,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-e-005",
+    "section": "C",
+    "question": "Details of complaints with regard to conflict of interest (current and previous FY)",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The provided evidence details processes to manage conflict of interest and general grievance redressal mechanisms for various stakeholders. However, it does not explicitly provide a breakdown or number of complaints specifically related to 'conflict of interest' for the current or previous financial year.",
+    "source_pages": [
+      2,
+      4,
+      11,
+      13,
+      23,
+      29,
+      30,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-l-001",
+    "section": "C",
+    "question": "Awareness programmes conducted for value chain partners on any of the principles during the financial year",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[]",
+    "missing": "The company states that awareness programs for value chain partners are 'Not applicable since the Company is an Investment company', implying no such programs were conducted or deemed necessary.",
+    "source_pages": [
+      2,
+      7,
+      9,
+      11,
+      18,
+      23,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-l-002",
+    "section": "C",
+    "question": "Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "Yes",
+    "missing": "",
+    "source_pages": [
+      4,
+      7,
+      11,
+      18,
+      23,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p1-l-002a",
+    "section": "C",
+    "question": "If yes, provide details of the same",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "Yes, every Director of the Company discloses their concern or interest in the Company or other entities annually or upon any change, including shareholding. Directors also provide an annual declaration under the Code of Conduct confirming no conflict of interest with company operations. In Board Meetings, Directors abstain from participating in items where they are concerned or interested. The Secretarial team maintains a database of Directors' interests, which is shared with the Finance & Accounts department to monitor transactions. Additionally, Senior Management annually affirms no material, financial, and commercial transactions that may conflict with the Company's interest.",
+    "missing": "",
+    "source_pages": [
+      11,
+      12,
+      23,
+      24,
+      28,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p2-e-001",
+    "section": "C",
+    "question": "Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social impacts of product and processes to total R&D and capex investments made by the entity (current and previous FY)",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The company states that this disclosure is 'Not applicable' as it is an Investment company and does not have R&D or Capex investments in specific technologies to improve environmental and social impacts of products and processes.",
+    "source_pages": [
+      2,
+      11,
+      12,
+      24,
+      27,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p2-e-002",
+    "section": "C",
+    "question": "Does the entity have procedures in place for sustainable sourcing?",
+    "answer_type": "radio",
+    "status": "partial",
+    "answer": "No",
+    "missing": "The company explicitly states \"Not applicable\" to the question of whether it has procedures in place for sustainable sourcing, explaining that as an investment company, it does not have goods and raw materials utilization as part of its products and services. Therefore, comprehensive procedures for sustainable sourcing are not detailed. However, the company does mention sourcing FSC certified office stationery as an environmental initiative, which indicates some form of sustainable sourcing practice for specific items.",
+    "source_pages": [
+      1,
+      11,
+      12,
+      20,
+      24,
+      27,
+      28,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p2-e-002a",
+    "section": "C",
+    "question": "If yes, what percentage of inputs were sourced sustainably?",
+    "answer_type": "number",
+    "status": "not_found",
+    "answer": "",
+    "missing": "The company states \"Not applicable\" for the percentage of inputs sourced sustainably. It also mentions that it is an investment company engaged only in investment activities and does not have any goods and raw materials utilization as a part of its products and services, which is why this question is not applicable to them.",
+    "source_pages": [
+      4,
+      11,
+      12,
+      20,
+      24,
+      27,
+      28,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p2-e-003",
+    "section": "C",
+    "question": "Describe the processes in place to safely reclaim your products for reuse, recycling, and disposing at the end of life",
+    "answer_type": "table_dynamic",
+    "status": "partial",
+    "answer": "[{\"category\": \"Plastics (including packaging)\", \"reclaimed_pct\": \"\", \"process\": \"Waste including plastic is sent for recycling.\"\u57f9\u990a}, {\"category\": \"E-waste\", \"reclaimed_pct\": \"\", \"process\": \"Waste including e-waste is sent for recycling, and disposed responsibly through an e-waste management vendor.\"\u8acb}, {\"category\": \"Hazardous waste\", \"reclaimed_pct\": \"\", \"process\": \"\"}, {\"category\": \"Other waste\", \"reclaimed_pct\": \"\", \"process\": \"Waste including metal and paper is sent for recycling.\"}]",
+    "missing": "The company explicitly states on page 11 that it is an investment company and does not have goods and raw materials utilization as part of its products and services, hence this section is 'Not applicable' for reclaiming its products. However, other sections provide data on 'products and packaging reclaimed at end of life of products' (page 12) and general waste recycling processes (page 28, 24) for plastics, e-waste, and other waste. This creates a contradiction regarding whether the company has 'products' that are reclaimed. No specific processes are described for hazardous waste. The percentage of products and packaging reclaimed for reuse, recycling, or safe disposal (reclaimed_pct) is not provided; only metric tonnes are available for some categories (page 12), and the company states 'Not applicable' for reporting this percentage (page 12, point 5).",
+    "source_pages": [
+      9,
+      11,
+      12,
+      18,
+      24,
+      27,
+      28,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p2-e-004",
+    "section": "C",
+    "question": "Whether Extended Producer Responsibility (EPR) is applicable to the entity's activities?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "No",
+    "missing": "",
+    "source_pages": [
+      1,
+      11,
+      12,
+      18,
+      24,
+      28,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p2-e-004a",
+    "section": "C",
+    "question": "If yes, whether the waste collection plan is in line with the EPR plan submitted to Pollution Control Boards?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "No",
+    "missing": "",
+    "source_pages": [
+      11,
+      12,
+      18,
+      20,
+      24,
+      27,
+      28,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p2-l-001",
+    "section": "C",
+    "question": "Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) / its services (for service industry)?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "No",
+    "missing": "The report explicitly states 'Not applicable' in the section designated for details of Life Cycle Perspective / Assessments (LCA), indicating that none have been conducted. Additionally, it clarifies that 'The Company is engaged only in investment activities as a Non-Banking Financial Company and does not have any goods and raw materials utilization as a part of its products and services,' which supports the non-applicability of LCAs for products/services.",
+    "source_pages": [
+      4,
+      11,
+      12,
+      18,
+      23,
+      24,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p2-l-001a",
+    "section": "C",
+    "question": "If yes, provide details of products/services for which LCA was conducted and percentage of total turnover covered",
+    "answer_type": "table_dynamic",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The evidence states 'Not Applicable' for the question regarding whether the entity has conducted Life Cycle Assessments (LCA) for any of its products or services. Therefore, no details on products/services for which LCA was conducted, percentage of total turnover covered, boundary, whether third-party conducted it, or results are available.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      9,
+      12,
+      23,
+      24,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p2-l-002",
+    "section": "C",
+    "question": "If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products/services, as identified in the Life Cycle Perspective/Assessments (LCA) or through any other means, briefly describe the same along with action taken to mitigate the same",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[]",
+    "missing": "The company explicitly states that this question is 'Not applicable', indicating no significant social or environmental concerns or risks were identified from the production or disposal of its products/services.",
+    "source_pages": [
+      11,
+      12,
+      24,
+      27,
+      28,
+      29,
+      30,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-001",
+    "section": "C",
+    "question": "Details of measures for the well-being of employees \u2014 % of employees covered by health insurance, accident insurance, maternity / paternity benefits, day care facilities",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"total\": 21, \"hi_covered\": 21, \"hi_pct\": 100, \"ai_covered\": 21, \"mat_covered\": 4, \"pat_covered\": 17, \"day_covered\": 21}]",
+    "missing": "",
+    "source_pages": [
+      2,
+      9,
+      13,
+      16,
+      18,
+      21,
+      23,
+      27
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-002",
+    "section": "C",
+    "question": "Details of measures for the well-being of workers \u2014 % of workers covered",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"total\": \"0\", \"hi_covered\": \"0\", \"hi_pct\": \"0\", \"ai_covered\": \"0\", \"pf_covered\": \"Not applicable\", \"gratuity\": \"Not applicable\", \"esic\": \"\"}]",
+    "missing": "",
+    "source_pages": [
+      2,
+      9,
+      13,
+      16,
+      18,
+      21,
+      23,
+      27
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-003",
+    "section": "C",
+    "question": "Accessibility of workplaces \u2014 are any of your plants/offices identified as inaccessible to differently abled persons?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "No",
+    "missing": "The evidence does not specify if the assessment for accessibility was conducted by the entity, statutory authorities, or third parties, nor does it provide the percentage of plants and offices assessed. However, it explicitly states that the company has only one office, and this office is accessible to differently abled persons.",
+    "source_pages": [
+      2,
+      9,
+      13,
+      16,
+      18,
+      21,
+      23,
+      24
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-003a",
+    "section": "C",
+    "question": "If yes, briefly describe the steps being taken to address this",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "To offset its Carbon Liabilities for FY2022-23, the Company has retired 45 Verified Emission Reductions (VER) using the Gold Standards Certification Program through the 400 MW Solar Power Project at Bhadla, Rajasthan, India.",
+    "missing": "The specific context of what 'this' refers to in the question is not provided in the evidence. However, the company has taken steps to address its carbon liabilities.",
+    "source_pages": [
+      7,
+      9,
+      23,
+      24,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-004",
+    "section": "C",
+    "question": "Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "Yes",
+    "missing": "The evidence states that the company is committed to maintaining a safe and harmonious business environment and workplace for everyone, irrespective of disability, which aligns with the principles of an equal opportunity policy under the Rights of Persons with Disabilities Act, 2016. Additionally, the company's premise is accessible to differently-abled visitors as per the requirements of the Act.",
+    "source_pages": [
+      4,
+      7,
+      9,
+      11,
+      18,
+      21,
+      23,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-004a",
+    "section": "C",
+    "question": "If yes, provide a web link to the policy",
+    "answer_type": "small_text",
+    "status": "answered",
+    "answer": "All Mandatory policies are available on the website of the Company: https://tatainvestment.com/investor-information/",
+    "missing": "The individual web links for each policy (Tata Code of Conduct, Corporate Social Responsibility Policy, Whistle Blower Policy, Sustainability Policy, Policy on Prevention of Sexual Harassment of Women at Workplace, Anti-Bribery and Anti-Corruption policy) are not provided; only a general link to the investor information page where they are stated to be available.",
+    "source_pages": [
+      7,
+      9,
+      18,
+      23,
+      24,
+      28,
+      30,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-005",
+    "section": "C",
+    "question": "Return to work and retention rates of permanent employees and workers that took parental leave (current FY)",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"took_leave\": \"\", \"returned\": \"\", \"retained\": \"\", \"w_took_leave\": \"0\", \"w_returned\": \"0\", \"w_retained\": \"0\"}]",
+    "missing": "Number of female permanent employees who took parental leave, returned to work, and were retained. Total number of permanent employees who took parental leave, returned to work, and were retained.",
+    "source_pages": [
+      2,
+      4,
+      13,
+      18,
+      21,
+      23,
+      24,
+      27
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-006",
+    "section": "C",
+    "question": "Is there a mechanism available for employees and workers to report work related grievances including sexual harassment?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "Yes",
+    "missing": "",
+    "source_pages": [
+      4,
+      9,
+      13,
+      21,
+      23,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-006a",
+    "section": "C",
+    "question": "If yes, provide details of the mechanism",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The company has a project related to reducing Greenhouse Gas emissions. To offset its Carbon Liabilities for FY2022-23, the Company retired 45 Verified Emission Reductions (VER) using the Gold Standards Certification Program. This was achieved through the 400 MW Solar Power Project at Bhadla, Rajasthan, India, which generates electricity using renewable solar energy. This project reduces anthropogenic emissions of greenhouse gases estimated at approximately 694,471 tCO2e per annum, replacing 732,874 MWh/year of electricity with renewable energy. The generated electricity is exported to the regional grid system.",
+    "missing": "The question is generic and could refer to other mechanisms for which details are also provided elsewhere in the report, such as the Corporate Social Responsibility Committee or mechanisms for community grievance redressal.",
+    "source_pages": [
+      7,
+      12,
+      13,
+      23,
+      24,
+      28,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-007",
+    "section": "C",
+    "question": "Details of safety related incidents during the current and previous financial year",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"emp_fy\": \"0\", \"emp_py\": \"0\", \"wkr_fy\": \"0\", \"wkr_py\": \"0\"}]",
+    "missing": "",
+    "source_pages": [
+      2,
+      13,
+      16,
+      18,
+      21,
+      27,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-008",
+    "section": "C",
+    "question": "Number of complaints on working conditions and health & safety made by employees and workers (current and previous FY)",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"fy_filed\": \"0\", \"fy_pending\": \"0\", \"py_filed\": \"0\", \"py_pending\": \"0\", \"wfy_filed\": \"\", \"wfy_pending\": \"\", \"wpy_filed\": \"\", \"wpy_pending\": \"\"}]",
+    "missing": "The evidence does not explicitly state that the table on page 18, which lists 'Working Conditions' and 'Health & Safety' with 'Filed during the year' and 'Pending resolution' columns, pertains directly to 'complaints'. However, the format is consistent with complaint reporting, and other sections of the report indicate 'NIL' or 'no incidents/grievances' for related categories. The data does not differentiate between employees and workers for these specific categories, but the company explicitly states it does not employ workers, so all reported numbers are assumed to be for employees.",
+    "source_pages": [
+      2,
+      13,
+      16,
+      18,
+      21,
+      23,
+      27,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-e-009",
+    "section": "C",
+    "question": "Assessments for the year \u2014 % of plants and offices assessed (own assessment / external)",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The percentage of plants and offices assessed (either by own assessment or external) is not explicitly provided. The report states \"The Company is in compliance with the laws, as applicable\" in the section where a percentage is expected for various categories like child labor, forced labor, sexual harassment, discrimination, and wages. While the company operates from a single location, a numerical percentage for assessment coverage is not given.",
+    "source_pages": [
+      2,
+      9,
+      12,
+      13,
+      23,
+      24,
+      27
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-l-001",
+    "section": "C",
+    "question": "Does the entity extend any life insurance or any compensatory package in the event of death of an employee (Y/N)?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "Yes. All employees are covered under the Group Insurance Policy, which includes Group Term Insurance Policy.",
+    "missing": "The specific details of the compensatory package in the event of death, beyond the mention of the Group Insurance Policy and Group Term Insurance Policy, are not provided.",
+    "source_pages": [
+      9,
+      13,
+      16,
+      18,
+      21,
+      23,
+      24,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-l-001a",
+    "section": "C",
+    "question": "Provide details",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The company provided the following details:\n\n**Energy Consumption:**\n- Total electricity consumption: 40,860 kWh in FY 2022-23 and 29,970 kWh in FY 2021-22.\n- Total fuel consumption and consumption through other sources: Not applicable for both years.\n- Total energy consumed: 40,860 kWh in FY 2022-23 and 29,970 kWh in FY 2021-22.\n- Figures are not comparable with the previous year due to intermittent office operations during the COVID-19 pandemic.\n\n**PAT Scheme:**\n- The entity does not have any sites/facilities identified as designated consumers under the Performance, Achieve and Trade (PAT) Scheme (Not applicable).\n\n**Water Usage:**\n- Water usage is primarily restricted to employees\u2019 consumption purposes only.\n\n**Zero Liquid Discharge:**\n- Not applicable; no mechanism for Zero Liquid Discharge has been implemented.\n\n**Air Emissions (other than GHG):**\n- As an investment company, direct air emissions (NOx, SOx, Particulate matter, Persistent organic pollutants, Volatile organic compounds, Hazardous air pollutants) are limited. The company works with investee companies to encourage sustainable practices and reduce their environmental footprint. No specific emission values are provided.\n\n**Greenhouse Gas (GHG) Emissions:**\n- Total Scope 1 emissions: NIL in FY 2022-23 (negligible direct emissions).\n- Total Scope 2 emissions: 41 Metric tonnes of CO2 equivalent in FY 2022-23.\n- Total Scope 1 and Scope 2 emissions per rupee of turnover: Negligible amount in FY 2022-23.\n\n**GHG Emission Reduction Projects:**\n- For FY 2022-23, the company retired 45 Verified Emission Reductions (VER) using the Gold Standards Certification Program through the 400 MW Solar Power Project at Bhadla, Rajasthan, India. This project reduces anthropogenic emissions by approximately 694,471 tCO2e p.a. and replaces 732,874 MWh/year of electricity with renewable energy.\n\n**Waste Management:**\n- Total waste generated in FY 2022-23: 0.02 metric tonnes, comprising 0.01 metric tonnes of plastic waste, 0.005 metric tonnes of e-waste, and 0.005 metric tonnes of paper.\n- Bio-medical, Construction and demolition, Battery, Radioactive, and Other Hazardous wastes: Not applicable.\n- Waste recovery (recycling, re-using, other recovery) and disposal (incineration, landfilling, other disposal) data: Not available/Not applicable.\n- E-waste is disposed of responsibly through an e-waste management vendor.\n\n**Waste Management Practices / Hazardous Chemicals:**\n- Not applicable.\n\n**Operations in Ecologically Sensitive Areas:**\n- Not applicable.\n\n**Environmental Impact Assessments:**\n- Not applicable.\n\n**Environmental Law Compliance:**\n- The entity is compliant with applicable environmental laws/regulations/guidelines in India.\n\n**Human Rights Grievances:**\n- No business process modifications were made due to human rights grievances, as there were NIL grievances.\n\n**Human Rights Due Diligence:**\n- None conducted.\n\n**Accessibility for Differently Abled:**\n- The office is accessible to differently-abled persons as per the requirements of the Rights of Persons with Disabilities Act, 2016.\n\n**Value Chain Partner Assessment:**\n- The company states compliance with laws regarding child labour, forced/involuntary labour, sexual harassment, discrimination at the workplace, and wages.\n\n**Corrective Actions for Value Chain Risks:**\n- None.",
+    "missing": "No specific details were requested that are not covered by the provided evidence.",
+    "source_pages": [
+      11,
+      19,
+      21,
+      23,
+      24,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p3-l-002",
+    "section": "C",
+    "question": "Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain partners",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The Company monitors and tracks the compliance related to statutory dues by contractors supplying third-party resources. Periodic audits are also conducted to ensure compliance.",
+    "missing": "N/A",
+    "source_pages": [
+      1,
+      9,
+      11,
+      18,
+      23,
+      24,
+      28,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p4-e-001",
+    "section": "C",
+    "question": "Describe the processes for identifying key stakeholder groups of the entity",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The key stakeholders of the Company were identified and prioritized during the materiality exercise conducted with facilitation from Tata Sustainability Group.",
+    "missing": "",
+    "source_pages": [
+      4,
+      7,
+      9,
+      11,
+      19,
+      20,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p4-e-002",
+    "section": "C",
+    "question": "List stakeholder groups identified as key for your entity and the frequency of engagement with each group",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[{\"group\": \"Employees\", \"identified\": true, \"channels\": \"Emails/ Meetings\", \"frequency\": \"Annual\", \"purpose\": \"\"}, {\"group\": \"Shareholders and investors\", \"identified\": true, \"channels\": \"Meetings\", \"frequency\": \"Annual\", \"purpose\": \"\"}, {\"group\": \"Communities\", \"identified\": true, \"channels\": \"Emails/ Meetings\", \"frequency\": \"Ongoing\", \"purpose\": \"\"}, {\"group\": \"Tata Group\", \"identified\": true, \"channels\": \"Emails/ Meetings\", \"frequency\": \"Ongoing\", \"purpose\": \"\"}, {\"group\": \"Companies in TICL\\u2019s investment portfolio\", \"identified\": true, \"channels\": \"Emails\", \"frequency\": \"Annual\", \"purpose\": \"\"}]",
+    "missing": "",
+    "source_pages": [
+      4,
+      7,
+      9,
+      11,
+      19,
+      20,
+      23,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p5-e-001",
+    "section": "C",
+    "question": "Employees and workers who have been provided training on human rights issues and policies",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The company provides a table specifically for 'Employees and workers who have been provided training on human rights issues and policy(ies)'. However, all entries in this table for both the current and previous financial years are marked as '-' or 'Not applicable.', indicating that no numerical data has been disclosed for this metric.",
+    "source_pages": [
+      2,
+      9,
+      13,
+      16,
+      18,
+      21,
+      23,
+      27
+    ]
+  },
+  {
+    "question_id": "brsr-c-p5-e-002",
+    "section": "C",
+    "question": "Details of minimum wages paid to employees and workers (as % of total employees/workers)",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"category\": \"Employees - Permanent\", \"gender\": \"Male\", \"total\": \"17\", \"eq_above\": \"0\", \"eq_pct\": \"0\", \"o_total\": \"\", \"o_eq\": \"17\", \"o_pct\": \"100\"}, {\"category\": \"Employees - Permanent\", \"gender\": \"Female\", \"total\": \"4\", \"eq_above\": \"0\", \"eq_pct\": \"0\", \"o_total\": \"\", \"o_eq\": \"4\", \"o_pct\": \"100\"}, {\"category\": \"Employees - Other than Permanent\", \"gender\": \"Male\", \"total\": \"0\", \"eq_above\": \"0\", \"eq_pct\": \"0\", \"o_total\": \"\", \"o_eq\": \"0\", \"o_pct\": \"0\"}, {\"category\": \"Employees - Other than Permanent\", \"gender\": \"Female\", \"total\": \"\", \"eq_above\": \"\", \"eq_pct\": \"\", \"o_total\": \"\", \"o_eq\": \"\", \"o_pct\": \"\"}, {\"category\": \"Workers - Permanent\", \"gender\": \"Male\", \"total\": \"0\", \"eq_above\": \"0\", \"eq_pct\": \"0\", \"o_total\": \"\", \"o_eq\": \"0\", \"o_pct\": \"0\"}, {\"category\": \"Workers - Permanent\", \"gender\": \"Female\", \"total\": \"\", \"eq_above\": \"\", \"eq_pct\": \"\", \"o_total\": \"\", \"o_eq\": \"\", \"o_pct\": \"\"}, {\"category\": \"Workers - Other than Permanent\", \"gender\": \"Male\", \"total\": \"0\", \"eq_above\": \"0\", \"eq_pct\": \"0\", \"o_total\": \"\", \"o_eq\": \"0\", \"o_pct\": \"0\"}, {\"category\": \"Workers - Other than Permanent\", \"gender\": \"Female\", \"total\": \"\", \"eq_above\": \"\", \"eq_pct\": \"\", \"o_total\": \"\", \"o_eq\": \"\", \"o_pct\": \"\"}]",
+    "missing": "Data for 'Employees - Other than Permanent - Female', 'Workers - Permanent - Female', and 'Workers - Other than Permanent - Female' categories are not provided (empty cells in the table).",
+    "source_pages": [
+      1,
+      2,
+      13,
+      16,
+      18,
+      21,
+      23
+    ]
+  },
+  {
+    "question_id": "brsr-c-p5-e-003",
+    "section": "C",
+    "question": "Details of remuneration / salary / wages \u2014 median and mean",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The evidence provides median remuneration/salary/wages for specific categories (Board of Directors, Key Managerial Personnel, Employees other than BoD and KMP) segmented by gender. However, it does not provide an overall median remuneration/salary/wages for all employees/workers, nor does it provide any mean remuneration/salary/wages for any category.",
+    "source_pages": [
+      2,
+      4,
+      9,
+      13,
+      18,
+      21,
+      23
+    ]
+  },
+  {
+    "question_id": "brsr-c-p5-e-004",
+    "section": "C",
+    "question": "Do you have a focal point (Designated Person/Committee) responsible for addressing human rights impacts or issues caused or contributed to by the business?",
+    "answer_type": "radio",
+    "status": "not_found",
+    "answer": "No",
+    "missing": "The provided text does not explicitly state whether there is a designated person or committee responsible for addressing human rights impacts or issues. While it mentions 'NIL grievance' and 'None' for human rights due diligence, it does not confirm or deny the existence of such a focal point.",
+    "source_pages": [
+      1,
+      11,
+      19,
+      20,
+      23,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p5-e-005",
+    "section": "C",
+    "question": "Number of Complaints on the following (current and previous FY)",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"fy_filed\": \"NIL\", \"fy_pending\": \"\", \"py_filed\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_filed\": \"\", \"fy_pending\": \"\", \"py_filed\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_filed\": \"\", \"fy_pending\": \"\", \"py_filed\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_filed\": \"\", \"fy_pending\": \"\", \"py_filed\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_filed\": \"\", \"fy_pending\": \"\", \"py_filed\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_filed\": \"\", \"fy_pending\": \"\", \"py_filed\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}]",
+    "missing": "The evidence provides 'NIL' for sexual harassment complaints in the current FY and leaves other cells blank, indicating no complaints or no data for those categories and years. No specific numerical complaints other than 'NIL' were reported.",
+    "source_pages": [
+      2,
+      4,
+      13,
+      21,
+      23,
+      27,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p5-e-006",
+    "section": "C",
+    "question": "Assessments for the year (% of plants / offices assessed)",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The report provides categories for assessment (e.g., Child labour, Sexual harassment, Discrimination at workplace, Wages, Forced/involuntary labour) and a column for \"% of your plants and offices that were assessed\". However, no numerical percentages are provided in this column for any of the categories. Instead, for some categories, it states \"The Company is in compliance with the laws, as applicable.\" or leaves the field blank.",
+    "source_pages": [
+      2,
+      12,
+      13,
+      21,
+      23,
+      27,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-c-p5-l-001",
+    "section": "C",
+    "question": "Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "No business processes were modified or introduced as a result of addressing human rights grievances/complaints, as there were NIL grievances.",
+    "missing": "N/A",
+    "source_pages": [
+      1,
+      4,
+      18,
+      21,
+      23,
+      29,
+      30,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p5-l-002",
+    "section": "C",
+    "question": "Details of the scope and coverage of any Human Rights due-diligence conducted",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "No Human Rights due diligence was conducted.",
+    "missing": "The report explicitly states that no human rights due diligence was conducted, therefore there are no details regarding scope or coverage.",
+    "source_pages": [
+      4,
+      7,
+      9,
+      21,
+      23,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p5-l-003",
+    "section": "C",
+    "question": "Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with Disabilities Act, 2016?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "Yes",
+    "missing": "",
+    "source_pages": [
+      9,
+      18,
+      23,
+      24,
+      29,
+      30,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-001",
+    "section": "C",
+    "question": "Details of total energy consumption (in Joules or multiples) and energy intensity",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The evidence provides 'Total Energy Consumed' in kWh (40,860 kWh for FY 2022-23 and 29,970 kWh for FY 2021-22), which can be converted to Joules (1.47 x 10^11 J for FY 2022-23 and 1.08 x 10^11 J for FY 2021-22). However, the guidance specifically requests a break-up of energy from coal, oil, gas, other non-renewable, and total renewable sources. This specific break-up is not provided. Additionally, the energy intensity per rupee of turnover is not found in the evidence.",
+    "source_pages": [
+      1,
+      2,
+      11,
+      12,
+      13,
+      24,
+      27,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-002",
+    "section": "C",
+    "question": "Does the entity have any sites / offices identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) Scheme of the Government of India?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "No",
+    "missing": "The report explicitly states \"Not applicable\" to the question, which implies the entity does not have any sites/offices identified as designated consumers under the PAT Scheme. While not a direct 'Yes' or 'No', 'Not applicable' in this context serves as a negative response, especially since no further details (which would be required for a 'Yes') are provided.",
+    "source_pages": [
+      2,
+      4,
+      18,
+      23,
+      24,
+      28,
+      30,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-002a",
+    "section": "C",
+    "question": "If yes, disclose whether targets set under the PAT scheme have been achieved",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "No",
+    "missing": "The company does not explicitly state 'No' to having sites/facilities identified as designated consumers (DCs) under the PAT scheme, but its response 'Not applicable' to the disclosure of whether targets set under the PAT scheme have been achieved implies that there are no such targets or facilities to report on.",
+    "source_pages": [
+      4,
+      7,
+      9,
+      24,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-003",
+    "section": "C",
+    "question": "Provide details of the following disclosures related to water \u2014 in kilolitres (KL)",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The company states that details related to water discharged, water withdrawal, consumption, and discharge in areas of water stress are 'Not applicable'. It also mentions that the company's water usage is primarily restricted to employees\u2019 consumption purposes only, but no quantitative data in kilolitres is provided for any water-related disclosures.",
+    "source_pages": [
+      1,
+      2,
+      9,
+      11,
+      12,
+      24,
+      27,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-004",
+    "section": "C",
+    "question": "Has the entity implemented a mechanism for Zero Liquid Discharge?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "No",
+    "missing": "",
+    "source_pages": [
+      11,
+      12,
+      23,
+      24,
+      27,
+      28,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-004a",
+    "section": "C",
+    "question": "If yes, provide details and coverage of ZLD",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The entity has not implemented a mechanism for Zero Liquid Discharge, stating 'Not applicable'.",
+    "missing": "Details of coverage and implementation are not applicable as the mechanism has not been implemented.",
+    "source_pages": [
+      2,
+      7,
+      9,
+      23,
+      24,
+      27,
+      28,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-005",
+    "section": "C",
+    "question": "Provide details of air emissions (in metric tonnes) other than GHG emissions",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The company states that as an investment company, direct air emissions are limited, and no specific metric tonnes for NOx, SOx, Particulate matter (PM), Persistent organic pollutants (POP), Volatile organic compounds (VOC), or Hazardous air pollutants (HAP) are provided in the report for FY 2022-23 or FY 2021-22.",
+    "source_pages": [
+      2,
+      9,
+      11,
+      12,
+      24,
+      27,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-006",
+    "section": "C",
+    "question": "Greenhouse gas emissions (in metric tonnes of CO2 equivalent)",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"fy_value\": \"486055\", \"py_value\": \"\"}]",
+    "missing": "Greenhouse gas emissions for FY 2021-22 (py_value) are not available in the provided evidence.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      11,
+      12,
+      24,
+      27,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-007",
+    "section": "C",
+    "question": "Does the entity have any project related to reducing GHG emission? If Yes, then provide details",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "Yes, the company has a project related to reducing Green House Gas emission. To offset its Carbon Liabilities for FY2022-23, the Company retired 45 Verified Emission Reductions (VER) using the Gold Standards Certification Program. This was achieved through the 400 MW Solar Power Project at Bhadla, Rajasthan, India, which generates electricity using renewable solar energy. This project reduces anthropogenic emissions of greenhouse gases by an estimated ~694,471 tCO2e p.a. by replacing 732,874 MWh/year of electricity with renewable energy. The generated electricity is exported to the regional grid system, helping to diversify the mix of thermal/fossil-fuel based power plants connected to the national grid.",
+    "missing": "",
+    "source_pages": [
+      11,
+      12,
+      18,
+      23,
+      24,
+      27,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-007a",
+    "section": "C",
+    "question": "If yes, describe the project(s) and their impact on GHG reduction",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The Company has retired 45 Verified Emission Reductions (VER) using the Gold Standards Certification Program through the 400 MW Solar Power Project at Bhadla, Rajasthan, India. This project generates electricity using renewable solar energy, reducing anthropogenic emissions of greenhouse gases by an estimated ~694,471 tCO2e p.a. and replacing 732,874 MWh/year of electricity with renewable energy. The generated electricity is exported to the regional grid, diversifying the mix of thermal/fossil-fuel based power plants.",
+    "missing": "N/A",
+    "source_pages": [
+      7,
+      11,
+      12,
+      20,
+      24,
+      27,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-e-008",
+    "section": "C",
+    "question": "Provide details related to waste management (in metric tonnes)",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"fy_value\": \"0.01\", \"py_value\": \"\"}, {\"fy_value\": \"0.005\", \"py_value\": \"\"}, {\"fy_value\": \"0.005\", \"py_value\": \"\"}, {\"fy_value\": \"0.02\", \"py_value\": \"\"}, {\"fy_value\": \"\", \"py_value\": \"\"}, {\"fy_value\": \"0.01\", \"py_value\": \"0.01\"}, {\"fy_value\": \"\", \"py_value\": \"\"}, {\"fy_value\": \"\", \"py_value\": \"\"}, {\"fy_value\": \"0.04\", \"py_value\": \"0.01\"}, {\"fy_value\": \"\", \"py_value\": \"\"}, {\"fy_value\": \"\", \"py_value\": \"\"}, {\"fy_value\": \"\", \"py_value\": \"\"}, {\"fy_value\": \"\", \"py_value\": \"\"}, {\"fy_value\": \"\", \"py_value\": \"\"}, {\"fy_value\": \"0.15\", \"py_value\": \"0.29\"}, {\"fy_value\": \"\", \"py_value\": \"\"}]",
+    "missing": "The provided JSON structure does not allow for explicit categories to be included for each row, making the specific type of waste and management action for each value ambiguous without external context. The rows correspond to: 1. Plastic waste generated, 2. E-waste generated, 3. Other Non-hazardous waste (Paper) generated, 4. Total waste generated, 5. Plastics (including packaging) Re-Used, 6. Plastics (including packaging) Recycled, 7. Plastics (including packaging) Safely Disposed, 8. E-waste Re-Used, 9. E-waste Recycled, 10. E-waste Safely Disposed, 11. Hazardous waste Re-Used, 12. Hazardous waste Recycled, 13. Hazardous waste Safely Disposed, 14. Other waste Re-Used, 15. Other waste Recycled, 16. Other waste Safely Disposed. For waste generated, previous year (FY 2021-22) values for Plastic waste, E-waste, Other Non-hazardous waste (Paper), and Total waste are explicitly stated as 'Not available'. Bio-medical waste, Construction and demolition waste, Battery waste, Radioactive waste, and Other Hazardous waste generated are reported as 'Not applicable' for both years. For reclaimed products, values for Re-Used and Safely Disposed for Plastics, E-waste, Hazardous waste, and Other waste, as well as Recycled for Hazardous waste, are marked with '-', which has been interpreted as not available/provided in the answer.",
+    "source_pages": [
+      2,
+      11,
+      12,
+      24,
+      27,
+      28,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-l-001",
+    "section": "C",
+    "question": "If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals/clearances are required, please specify details",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[]",
+    "missing": "",
+    "source_pages": [
+      2,
+      11,
+      12,
+      23,
+      24,
+      27,
+      28,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p6-l-002",
+    "section": "C",
+    "question": "Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial year",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[]",
+    "missing": "The report explicitly states 'Not applicable.' for this disclosure, indicating no environmental impact assessments were undertaken by the entity in the current financial year.",
+    "source_pages": [
+      1,
+      11,
+      23,
+      24,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p7-e-001",
+    "section": "C",
+    "question": "Number of affiliations with trade and industry chambers / associations",
+    "answer_type": "number",
+    "status": "answered",
+    "answer": "2",
+    "missing": "",
+    "source_pages": [
+      2,
+      4,
+      11,
+      19,
+      28,
+      29
+    ]
+  },
+  {
+    "question_id": "brsr-c-p7-e-002",
+    "section": "C",
+    "question": "List the top 10 trade and industry chambers / associations that the entity is a member of / is affiliated to",
+    "answer_type": "table_dynamic",
+    "status": "partial",
+    "answer": "[{\"sno\": \"1\", \"name\": \"Bombay Chambers of Commerce & Industry\", \"scope\": \"National\"}, {\"sno\": \"2\", \"name\": \"IMC Chamber of Commerce and Industry\", \"scope\": \"\"}]",
+    "missing": "Only 2 out of the top 10 trade and industry chambers/associations were provided in the evidence. The scope for 'IMC Chamber of Commerce and Industry' was also not specified.",
+    "source_pages": [
+      2,
+      4,
+      7,
+      11,
+      19,
+      23,
+      28
+    ]
+  },
+  {
+    "question_id": "brsr-c-p7-l-001",
+    "section": "C",
+    "question": "Provide details of public policy positions advocated by the entity",
+    "answer_type": "table_dynamic",
+    "status": "partial",
+    "answer": "[{\"topic\": \"Public policy positions\", \"method\": \"Representations through industry bodies; participation in various discussions and advocacy pursued by such industry bodies\", \"web_link\": \"\", \"frequency\": \"\", \"stakeholders\": \"Key stakeholders from the viewpoint of industry\"}]",
+    "missing": "Specific topics of public policy advocated, web links, and frequency of advocacy are not provided.",
+    "source_pages": [
+      7,
+      9,
+      19,
+      23,
+      24,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p8-e-001",
+    "section": "C",
+    "question": "Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws in the current financial year",
+    "answer_type": "table_dynamic",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The company states that details of Social Impact Assessments (SIA) of projects undertaken in the current financial year are 'Not applicable', indicating no such assessments were conducted.",
+    "source_pages": [
+      1,
+      12,
+      19,
+      23,
+      24,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p8-e-002",
+    "section": "C",
+    "question": "Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity",
+    "answer_type": "table_dynamic",
+    "status": "not_found",
+    "answer": "[]",
+    "missing": "The company states that this section is 'Not applicable', indicating no ongoing Rehabilitation and Resettlement (R&R) projects.",
+    "source_pages": [
+      2,
+      18,
+      23,
+      24,
+      27,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p8-e-003",
+    "section": "C",
+    "question": "Describe the mechanisms to receive and redress grievances of the community",
+    "answer_type": "text",
+    "status": "partial",
+    "answer": "The Company is committed to contributing to the improvement in the quality of life of individuals and empowerment of institutions which serve the community. The Tata Code of Conduct and related policies are available to the public on the Company\u2019s website.",
+    "missing": "The provided text describes a commitment and the availability of general policies (Tata Code of Conduct and related policies) to the public. However, it does not detail specific mechanisms for *receiving* grievances (e.g., a dedicated contact point, channel, or procedure) or for *redressing* them (e.g., steps for investigation, resolution process, timelines).",
+    "source_pages": [
+      4,
+      7,
+      9,
+      23,
+      28,
+      29,
+      30,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p8-e-004",
+    "section": "C",
+    "question": "Percentage of input material (raw materials or goods/services purchased) sourced from suppliers",
+    "answer_type": "table_general",
+    "status": "not_found",
+    "answer": "",
+    "missing": "The company states that it is an investment company and does not have goods and raw materials utilization as part of its products and services. Therefore, information regarding the percentage of input material sourced from suppliers is not applicable and not provided.",
+    "source_pages": [
+      1,
+      2,
+      11,
+      12,
+      24,
+      27,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p8-l-001",
+    "section": "C",
+    "question": "Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[]",
+    "missing": "The company states that 'Not applicable' for details of negative social impacts identified, implying no such impacts were found or assessed in the current financial year.",
+    "source_pages": [
+      9,
+      19,
+      20,
+      23,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p8-l-002",
+    "section": "C",
+    "question": "Details of CSR projects undertaken by the entity in designated aspirational districts as identified by government bodies",
+    "answer_type": "table_dynamic",
+    "status": "answered",
+    "answer": "[{\"state\": \"Maharashtra\", \"district\": \"Osmanabad\", \"amount\": \"27.00\"}, {\"state\": \"Maharashtra\", \"district\": \"Gadchiroli\", \"amount\": \"25.00\"}]",
+    "missing": "",
+    "source_pages": [
+      1,
+      2,
+      11,
+      24,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-e-001",
+    "section": "C",
+    "question": "Describe the mechanisms in place to receive and respond to consumer complaints and feedback",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The Company does not have a customer interface.",
+    "missing": "The company indicates it has no customer interface, therefore it does not describe mechanisms to receive and respond to consumer complaints and feedback.",
+    "source_pages": [
+      4,
+      7,
+      9,
+      20,
+      28,
+      29,
+      30,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-e-002",
+    "section": "C",
+    "question": "Turnover of products and/or services as a percentage of net turnover \u2014 products/services with information on safe and responsible usage",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"fy_pct\": \"Not applicable.\", \"py_pct\": \"Not applicable.\"}]",
+    "missing": "The report indicates 'Not applicable.' for this disclosure, meaning the company does not provide a percentage for turnover of products/services with information on safe and responsible usage.",
+    "source_pages": [
+      1,
+      2,
+      4,
+      12,
+      13,
+      27,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-e-003",
+    "section": "C",
+    "question": "Number of consumer complaints in respect of the following (current and previous FY)",
+    "answer_type": "table_general",
+    "status": "partial",
+    "answer": "[{\"fy_received\": \"NIL\", \"fy_pending\": \"\", \"py_received\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_received\": \"\", \"fy_pending\": \"\", \"py_received\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_received\": \"\", \"fy_pending\": \"\", \"py_received\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_received\": \"\", \"fy_pending\": \"\", \"py_received\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_received\": \"\", \"fy_pending\": \"\", \"py_received\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_received\": \"\", \"fy_pending\": \"\", \"py_received\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}, {\"fy_received\": \"\", \"fy_pending\": \"\", \"py_received\": \"\", \"py_pending\": \"\", \"remarks\": \"\"}]",
+    "missing": "Explicit numbers (even if zero) or 'NIL' for FY 2022-23 pending, FY 2021-22 received, and FY 2021-22 pending complaints for 'Data privacy'. Explicit numbers (even if zero) or 'NIL' for all complaint categories (Advertising, Cyber-security, Delivery of essential services, Restrictive Trade Practices, Unfair Trade Practices, Other) for both received and pending complaints in current and previous financial years. The company states it does not have a customer interface, which implies zero complaints, but explicit numbers or 'NIL' are not provided in the table for all fields.",
+    "source_pages": [
+      2,
+      12,
+      13,
+      23,
+      24,
+      27,
+      29,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-e-004",
+    "section": "C",
+    "question": "Details of instances of product recalls on account of safety issues (current and previous FY)",
+    "answer_type": "table_general",
+    "status": "answered",
+    "answer": "[{\"fy_count\": \"0\", \"py_count\": \"0\", \"reasons\": \"Not applicable.\"}]",
+    "missing": "The evidence states 'Not applicable' for product recalls, implying no instances. It does not explicitly separate the counts for the current and previous financial years, providing a general 'Number' column for both. The report also clarifies that the company is an investment company and does not have products to recall, which explains why recalls are 'Not applicable'.",
+    "source_pages": [
+      2,
+      11,
+      12,
+      23,
+      24,
+      27,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-e-005",
+    "section": "C",
+    "question": "Does the entity have a framework / policy on cyber security and risks related to data privacy?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "Yes",
+    "missing": "",
+    "source_pages": [
+      7,
+      9,
+      18,
+      23,
+      24,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-e-005a",
+    "section": "C",
+    "question": "If yes, provide a web link of the policy",
+    "answer_type": "small_text",
+    "status": "answered",
+    "answer": "All mandatory policies are available on the website of the Company at https://tatainvestment.com/investor-information/.",
+    "missing": "",
+    "source_pages": [
+      7,
+      9,
+      18,
+      23,
+      24,
+      28,
+      30,
+      32
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-e-006",
+    "section": "C",
+    "question": "Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory authorities on safety of products / services",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The company states that corrective actions regarding advertising, delivery of essential services, cyber security and data privacy of customers, re-occurrence of instances of product recalls, and penalties/actions by regulatory authorities on product/service safety are \"Not applicable.\"",
+    "missing": "",
+    "source_pages": [
+      1,
+      9,
+      23,
+      28,
+      29,
+      30,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-l-001",
+    "section": "C",
+    "question": "Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available)",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The Company is an investment company and does not have a customer interface. However, details about the Company\u2019s profile and operations can be accessed at https://tatainvestment.com/",
+    "missing": "N/A",
+    "source_pages": [
+      4,
+      7,
+      9,
+      11,
+      23,
+      29,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-l-002",
+    "section": "C",
+    "question": "Steps taken to inform and educate consumers about safe and responsible usage of products and/or services",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The company states that this question is 'Not applicable' because it is an investment company and does not have a customer interface.",
+    "missing": "N/A",
+    "source_pages": [
+      9,
+      12,
+      24,
+      28,
+      30,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-l-003",
+    "section": "C",
+    "question": "Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "The company states that this is 'Not applicable'.",
+    "missing": "The company does not provide specific mechanisms as it states this question is 'Not applicable'.",
+    "source_pages": [
+      9,
+      20,
+      27,
+      28,
+      29,
+      30,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-l-004",
+    "section": "C",
+    "question": "Does the entity display product information on the product over and above what is mandated as per local laws?",
+    "answer_type": "radio",
+    "status": "answered",
+    "answer": "N/A",
+    "missing": "",
+    "source_pages": [
+      9,
+      11,
+      18,
+      23,
+      24,
+      29,
+      32,
+      33
+    ]
+  },
+  {
+    "question_id": "brsr-c-p9-l-004a",
+    "section": "C",
+    "question": "If yes, provide details; if no, provide reason",
+    "answer_type": "text",
+    "status": "answered",
+    "answer": "Yes, the Company has an Anti-bribery and Anti-corruption policy. The Policy has been developed in alignment of Tata Code of Conduct and group guidelines. Web link - https://tatainvestment.com/investor-information/",
+    "missing": "",
+    "source_pages": [
+      9,
+      11,
+      23,
+      24,
+      28,
+      32,
+      33
+    ]
+  }
+]
